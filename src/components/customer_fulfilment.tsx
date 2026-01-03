@@ -1,5 +1,5 @@
 
-import { Area, AreaChart, Bar, BarChart, Tooltip, XAxis, YAxis } from "recharts";
+import { Area, AreaChart, Tooltip, XAxis, YAxis } from "recharts";
 
 const data = [
   { name: "1", lastMonth: 80, thisMonth: 45 },

@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, ReferenceLine, ResponsiveContainer, XAxis, YAxis } from "recharts";
+import { Area, AreaChart, CartesianGrid, ReferenceLine, XAxis, YAxis } from "recharts";
 
 const data = [
   { month: "Jan", value: 80 },
